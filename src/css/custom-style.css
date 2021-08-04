@@ -1,0 +1,369 @@
+
+:root {
+    --green-blue: #00a99d;
+    --black: #383838;
+    --white: #e4e4e4;
+    --gray: #8a8a8a;
+    --client-black:#333333;
+
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.font-raleway {
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbg {
+    background-color: #f9f9f9;
+}
+
+.card-gray {
+    background-color: var(--gray);
+}
+.bg-white-custom{
+    background-color: var(--white);
+}
+.bg-black-custom {
+    background-color: var(--black);
+}
+.bg-green-blue {
+    background-color: var(--green-blue);
+}
+.bg-clients {
+    background-color: var(--client-black);
+}
+.hover-bg-green-blue:hover {
+    background-color: var(--green-blue);
+}
+
+.what-we-offer {
+    width: 215px;
+    height: 19px;
+    margin: 80px 19px 20px 18px;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.77;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--black);
+}
+
+.what-we-offer .text-style-1 {
+    color: var(--green-blue);
+}
+
+.We-offer-our-customers-the-best-services-solutions-this-is-o {
+
+    height: 13px;
+    margin: 10px auto;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #8a8a8a;
+}
+
+.responsive-multipurpose {
+
+    height: 11px;
+    margin: 10px auto;
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #606060;
+}
+
+.Proin-in-magna-a-ipsum-viverra-scelerisq-enec-turp-Nunc-vestib {
+
+    margin: auto;
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: center;
+    color: #7a7a7a;
+}
+
+.our-powerful-skills {
+    width: 215px;
+    height: 19px;
+    margin: 80px 19px 20px 18px;
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.77;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+}
+
+.our-powerful-skills .text-style-1 {
+    color: var(--green-blue);
+}
+
+.Were-good-and-experienced-at-different-things-and-areas-and-we {
+
+    height: 13px;
+    margin: 35px auto;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #606060;
+}
+
+.shapess {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+}
+
+.speed-optimization {
+    width: auto;
+    height: 11px;
+    margin: 20px auto;
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: center;
+    color: #8a8a8a;
+}
+
+.flag-title {
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #606060;
+}
+
+.Desktops-Tablets-Phones {
+    margin: 9px auto 20px 0px;
+    font-family: Raleway;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #aaaaaa;
+}
+
+.Proin-in-magna-a-ipsum-viverra-scelerisque-eu-nec-turp-Nunc-ve {
+
+    margin: 20px auto auto 0px;
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7a7a7a;
+}
+
+.read-more {
+    font-family: Raleway;
+    font-size: 10px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+}
+
+.alexis-simpson {
+
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+}
+
+.CEO-Developer {
+    margin: 25px 0px 10px 0;
+    object-fit: contain;
+    font-family: Raleway;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.83;
+    letter-spacing: normal;
+    text-align: center;
+    color: #606060;
+}
+
+.line {
+    height: 1px;
+    margin: 0 0 10px 0;
+    object-fit: contain;
+    background-color: #ebebeb;
+}
+
+.mailcss {
+    object-fit: contain;
+    font-family: Raleway;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.9;
+    letter-spacing: normal;
+    text-align: center;
+    color: #aaaaaa;
+}
+
+.phonecss {
+    font-family: ElegantIcons;
+    font-size: 12px;
+    line-height: 1.9;
+    font-weight: normal;
+    color: #aaaaaa;
+}
+
+.view-all-works {
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.54;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+}
+
+.register-Your-Interest {
+    font-family: AvenirNext;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--green-blue);
+}
+
+.Copyright-2017-APD-Digital-Services-Sdn-Bhd-All-Rights-Reser {
+
+    font-family: Myriad Pro;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #cccccc;
+}
+
+.placeholder-style {
+    font-family: Myriad Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.83;
+    letter-spacing: normal;
+    text-align: left;
+    color: #aaaaaa;
+}
+
+/* select {
+-webkit-appearance: none;
+-moz-appearance: none;
+} */
+.quotes-position ,.quotes-name{
+
+font-family: Raleway;
+font-size: 12px;
+font-weight: 500;
+font-stretch: normal;
+font-style: italic;
+line-height: normal;
+letter-spacing: normal;
+text-align: center;
+color: #aaaaaa;
+}
+
+.quotes-name {
+font-size: 13px;
+font-weight: 800;
+font-style: normal;
+color: var(--green-blue);
+}
+.quotes-text {
+font-family: Raleway;
+font-size: 20px;
+font-weight: 500;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.7;
+letter-spacing: normal;
+text-align: center;
+color: var(--white);
+}
+.quotes-icon {
+    font-family: Raleway;
+    font-size: 40px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--white);
+}
+.carousel-container .track {
+transition: transform 0.5s;
+}
+
+.track-container{
+    max-width: 1200px;
+}
+.client-bg {
+    width: 270px;
+    height: 160px;
+    margin:0 15px 0 15px;
+}
+
